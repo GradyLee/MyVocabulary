@@ -1,0 +1,34 @@
+pants               n.  an item of clothing worn on the legs that has a separate part for each legs
+broccoli            n.  a vegetable with green or purple heads that can be eatten
+spinach             n.  an edible plant that has edible dark green leaves
+octopus             n.  an octopod with eight sucker covered legs
+squid               n.  a cephalopod with a long, slender body, eight legs, and two tentacles
+scooter             n.  a two-wheeled mode of transport that has a footboard, it can be motorized or user-powered
+purse               n.  a handbag usually carried by women
+scissors            n.  a sharp object used to cut items such as papper
+mechanical pencil   n.  a type of pencil that can be refilled with graphite and continually sharpened
+pharmacy            n.  a place in a hospital where medicines are prepared
+bakery              n.  a place where bread and cakes are made and/or sold
+superior            n.  something better or of higher rank
+sneaker             n.  a soft shoe fastened with laces that is worn for fashion or for sports
+pajamas             n.  items of clothing, often pants and a shirt, used purely to sleep in
+brassiere           n.  an item of underwear worn to support the breasts
+shaving razor       n.  a sharp utensil used to remove body hair, usually from the face
+washcloth           n.  a small towel or cloth used for washing the face or body
+towel               n.  an absorbent piece of cloth used for drying the body or objects
+shampoo             n.  a liquid soap specifically for the hair
+conditioner         n.  a substance, usually a liquid, used after shampoo to improve the state of the hair
+deodorant           n.  a substance that masks body odor
+liquid soap         n.  a watery substance used to clean
+frying pan          n.  a shallow cooking pot that can be used to cook food in oil
+cutting board       n.  a flat surface, often made of wood or plastic, used to cut food without damaging counters or tables
+sink                n.  a basin, usually found in the bathroom or kitchen, that has a water supply and is used to clean items
+kettle              n.  a device used for boiling water
+stove               n.  a piece of equipment that can burn various fuels and is used for heating rooms
+pigeon              n.  a common bird with a compact body and small head that is typically gray and white
+crow                n.  a large bird, completely or mostly black, with a rough unpleasant cry
+cockroach           n.  a large brown insect with wings, that lives in houses, especially where there is dirt
+mosquito            n.  a long-legged fly, the females of the species suck blood from humans and animals
+suitcase            n.  a wheeled bag used for transporting goods and personal items while traveling
+reservation         n.  an arrangement for a seat on a plane or train, a room in a hotel, etc
+entrepreneur        n.  a person who sets up and organizes a business
