@@ -32,3 +32,5 @@ mosquito            n.  a long-legged fly, the females of the species suck blood
 suitcase            n.  a wheeled bag used for transporting goods and personal items while traveling
 reservation         n.  an arrangement for a seat on a plane or train, a room in a hotel, etc
 entrepreneur        n.  a person who sets up and organizes a business
+vampire             n.  a dead person who leaves his or her grave at night to suck the blood of living people
+munchies            n.  small pieces of food for eating with drinks at a party
