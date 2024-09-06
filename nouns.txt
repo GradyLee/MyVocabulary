@@ -34,3 +34,42 @@ reservation         n.  an arrangement for a seat on a plane or train, a room in
 entrepreneur        n.  a person who sets up and organizes a business
 vampire             n.  a dead person who leaves his or her grave at night to suck the blood of living people
 munchies            n.  small pieces of food for eating with drinks at a party
+vaccum cleaner      n.
+chores              n.  assignment,bore,duty,errand,hard work
+sale                n.  sell sth with discount
+coupon              n.  a voucher, a piece of paper entitling the holder to a discount on a good or service
+aisle               n.  a walkway between seats or shelving in a store
+comedy              n.  a genre of entertainment or drama that aims to make the audience laugh
+diarrhea            n.  a condition that results in abnormally frequent and loose feces
+symptom             n.  
+stomach             n.
+stomachache         n.  a pain that is located in the stomach
+boolshelf           n.  an item of furniture with shelves that is used for displaying books or other items
+furniture           n.  objects that can be moved, such as tables, chairs and beds
+dresser             n.  a piece of furniture with drawers that is used to store clothing
+carpet              n.  a thick woven material made of wool, etc. for covering floors or stairs
+celsius             n.  
+fahrenheit          n.  
+climate             n.  the regular pattern of weather conditions of a particular place
+hail                n.  a type of weather that is characterized by hard frozen rain falling from the sky
+aquarium            n.  a building that contains many large water tanks in which fish and other aquatic species are kept
+jogging             n.  the act of running at a medium, steady place
+fare                n.  the amount of money paid for a ride on transportation such as a bus, train, or airplane
+intersection        n.  a place where two or more roads, lines, etc. meet or cross each other
+centimeter          n.  
+liter
+landlord            n.  a person or company from whom you rent a room, a house, an office, etc.
+domitory            n.  
+suburb              n.  an area where people live that is outside the centre of a city
+lily                n.  a large white or brightly coloured flower with petals that curl back from the centre.
+dandelion           n.  a small wild plant with a bright yellow flower that becomes a soft white ball of seeds called a dandelion clock
+flood                n.  a large amount of water covering an area that is usually dry
+typhoon             n.  a violent tropical storm with very strong winds
+hurricane           n.  a violent storm with very strong winds, especially in the western Atlantic Ocean
+tornado             n.  a violent storm with very strong winds which move in a circle.
+drought             n.  a long period of time when there is little or no rain
+tsunami             n.  an extremely large wave in the sea caused, for example, by an earthquake
+avalanche           n.  a mass of snow, ice and rock that falls down the side of a mountain
+soil                n.  the top layer of earth that plants can be grown in
+martial arts        n.  
+detergent           n.  a liquid or powder that helps remove dirt, for example from clothes or dishes
