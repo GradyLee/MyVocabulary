@@ -4,3 +4,4 @@ humid                   adj.    a form of weather that is warm and has a high am
 mean                    adj.    
 spotless                adj.    perfectly clean
 immaculate              adj.    extremely clean and tidy
+depressed               adj.    very sad and without hope
